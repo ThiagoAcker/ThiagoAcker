@@ -1,7 +1,35 @@
-# Thiago Acker
+# My Portfolio
 
-**Economist diving into the data world**
+Welcome to my portfolio! Here you will find information about my projects and skills.
+
+## About Me
+
+Graduated in economics and diving into the data world.
+
+## Projects
+
+Here are some of the projects I’ve worked on:
+
+### Project 1: [Corruption Correlation Analysis]
+- **Description:** The project correlates corruption index from many countries with the power purchase index, giving detailed analysis of corruption by geographical regions and exploring relative corruption levels.
+- **Technologies Used:** List of technologies used (Python).
+
+## Skills
+
+- **Programming Languages:** Python.
+- **Frameworks and Libraries:** Matplotlib, Pandas, Numpy, Seaborn, etc.
 
 ## Contact
-- LinkedIn: *https://www.linkedin.com/in/thiago-acker/.*
-- Email: acker.thiago1@gmail.com
+
+Feel free to reach out to me:
+
+- **Email:** acker.thiago1@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/thiago-acker/](#)
+
+## License
+
+This portfolio is licensed under the MIT License.
+
+---
+
+Thank you for visiting my portfolio!
