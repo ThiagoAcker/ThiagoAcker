@@ -18,6 +18,7 @@ Here are some of the projects I’ve worked on:
 
 - **Programming Languages:** Python.
 - **Frameworks and Libraries:** Matplotlib, Pandas, Numpy, Seaborn, etc.
+- **Link:** [Check out the notebook here](https://github.com/ThiagoAcker/ThiagoAcker/blob/main/Global_Corruption_Analysis.ipynb)
 
 ## Contact
 
@@ -25,7 +26,6 @@ Feel free to reach out to me:
 
 - **Email:** acker.thiago1@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/thiago-acker/](#)
-- **Link:** [Check out the notebook here](https://github.com/ThiagoAcker/ThiagoAcker/blob/main/Global_Corruption_Analysis.ipynb)
   
 ## License
 
