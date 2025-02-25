@@ -13,12 +13,12 @@ Here are some of the projects I’ve worked on:
 ### Project 1: Global Corruption Analysis: Correlations with Purchasing Power and Regional Distribution
 - **Description:** The project correlates corruption index from many countries with the power purchase index, giving detailed analysis of corruption by geographical regions and exploring relative corruption levels.
 - **Technologies Used:** Python.
+- **Link:** [Check out the notebook here](https://github.com/ThiagoAcker/ThiagoAcker/blob/main/Global_Corruption_Analysis.ipynb)
 
 ## Skills
 
 - **Programming Languages:** Python.
 - **Frameworks and Libraries:** Matplotlib, Pandas, Numpy, Seaborn, etc.
-- **Link:** [Check out the notebook here](https://github.com/ThiagoAcker/ThiagoAcker/blob/main/Global_Corruption_Analysis.ipynb)
 
 ## Contact
 
