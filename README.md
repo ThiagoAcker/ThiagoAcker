@@ -25,7 +25,8 @@ Feel free to reach out to me:
 
 - **Email:** acker.thiago1@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/thiago-acker/](#)
-
+- **Link:** [https://github.com/ThiagoAcker/ThiagoAcker/blob/main/Global_Corruption_Analysis.ipynb](#)
+  
 ## License
 
 This portfolio is licensed under the MIT License.
